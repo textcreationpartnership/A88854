@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposalls for an Act for prevention of the great trouble and charge which the honest people of this nation, have been put to; by wrongfull arrests and imprisonments, and for preserving them from such arrests (being upon feigned great actions) at the sute of divers to whom they have owed nothing. And also for an other Act for the taking away the great trouble and charge, which the people of this nation have been put to; by sheriffs, bayliffs, serjeants, &amp;c. to procure arrests and appearances of their debtors, &amp;c. in order to the more speedy satisfying of creditors; for the saving to the people of this nation, between 4 and 500000. pounds yearly, part of the 1500000. pounds, formerly proposed to be so saved yearly, mentioned in the proposalls for creditors and prisoners. With a short explanation in particular, how those 300000. pounds, and more, by these proposalls for creditors and prisoners, will be saved. Offered to the same consideration, as those for creditors and prisoners are. / By Will. Leach of the Middle Temple Gent.</title>
+            <author>Leach, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88854</idno>
+            <idno type="STC">Wing L779</idno>
+            <idno type="STC">Thomason E604_1</idno>
+            <idno type="STC">ESTC R205839</idno>
+            <idno type="EEBO-CITATION">99865090</idno>
+            <idno type="PROQUEST">99865090</idno>
+            <idno type="VID">117325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117325)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E604[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposalls for an Act for prevention of the great trouble and charge which the honest people of this nation, have been put to; by wrongfull arrests and imprisonments, and for preserving them from such arrests (being upon feigned great actions) at the sute of divers to whom they have owed nothing. And also for an other Act for the taking away the great trouble and charge, which the people of this nation have been put to; by sheriffs, bayliffs, serjeants, &amp;c. to procure arrests and appearances of their debtors, &amp;c. in order to the more speedy satisfying of creditors; for the saving to the people of this nation, between 4 and 500000. pounds yearly, part of the 1500000. pounds, formerly proposed to be so saved yearly, mentioned in the proposalls for creditors and prisoners. With a short explanation in particular, how those 300000. pounds, and more, by these proposalls for creditors and prisoners, will be saved. Offered to the same consideration, as those for creditors and prisoners are. / By Will. Leach of the Middle Temple Gent.</title>
+                  <author>Leach, William.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Leach, and are to be sold by Lawrence Blaicklock within Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>False arrest --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117325:1" rendition="simple:additions"/>
+            <p>PROPOSALLS FOR AN ACT For prevention of the great trouble and charge which the ho<g ref="char:EOLhyphen"/>neſt people of this Nation, have been put to; by wrongfull Arreſts and Im<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſonments, and for preſerving them from ſuch Arreſts (being upon feigned great Actions) at the ſute of divers to whom they have owed nothing.</p>
+            <p>And alſo for ANOTHER ACT For the taking away the great trouble and charge, which the people or this Nation have been put to; by Sheriffs, Bayliffs, Serjeants, &amp;c. to procure Arreſts and Appearances of their Debtors, &amp;c. in order to the more ſpeedy ſatisfying of <hi>Creditors;</hi>
+            </p>
+            <p>For the ſaving to the people of this Nation, between 4 and 500000. pounds yearly, part of the 1500000. pounds, formerly propoſed to be ſo ſaved yearly, mentioned in the Propoſalls for Creditors and Priſoners.</p>
+            <p>With a ſhort explanation in particular, how thoſe 300000. pounds, and more, by theſe Propoſalls for Creditors and Priſoners, will be ſaved.</p>
+            <p>Offered to the ſame conſideration, as thoſe for Creditors and Priſoners are.</p>
+            <p>By <hi>Will. Leach</hi> of the Middle Temple Gent.</p>
+            <p>LONDON Printed by <hi>F. Leach,</hi> and are to be ſold by <hi>Lawrence Blaicklock</hi> within <hi>Yemple-Bar.</hi> 
+               <add>June 25</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117325:2"/>
+            <pb n="3" facs="tcp:117325:2"/>
+            <div type="part">
+               <head>Propoſalls for an Act, for pre<g ref="char:EOLhyphen"/>vention of great trouble and charge, which the honeſt people of this Nation have beene pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to; by wrongfull Arreſts, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as diverſe people of this Nati<g ref="char:EOLhyphen"/>on, of late years have been Arreſted and Impriſoned upon divers Proceſſe and Pre<g ref="char:EOLhyphen"/>cepts iſſuing out of Corporation Courts, &amp;c. where they have been Strangers, and there deteyned, untill they have made great Fines, or paid great ſummes of mo<g ref="char:EOLhyphen"/>ney, to their malicious, deceiptfull, and unjuſt Proſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cu<g ref="char:EOLhyphen"/>tors and Perſecutors (though ſuch people ſo Arreſted, have owe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing at all to ſuch Proſecutors or Perſecutors) or otherwiſe, to releaſe ſome great ſums of money or lawfull demands, which they owed to ſuch perſons Arreſted; be<g ref="char:EOLhyphen"/>fore any Pledges found, or any ſummons or attachment awa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, executed and retorned, againſt ſuch pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſons ar<g ref="char:EOLhyphen"/>reſted, contrary to the ancient Lawes of this Nati<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</p>
+               <p>
+                  <pb n="5" facs="tcp:117325:3"/>
+                  <hi>For prevention whereof, it is propoſed to be deſired to <hi>Be Enacted</hi>
+                  </hi>
+                  <lb/>
+THat no perſon or perſons whatſoever, ſhall make, or ſue out, or cauſe, or wil<g ref="char:EOLhyphen"/>lingly permit or ſuffer in his name, to be made or ſued out, any Writ, Warrant, or Precept, out of any Corpo<g ref="char:EOLhyphen"/>ration Court, or &amp;c. upon any action, bill, or plaint, or, &amp;c. untill the Party Plaintiffe in ſuch action, bill, or plaint, hath or ſhall firſt put in or file his bill, plaint, or in<g ref="char:EOLhyphen"/>formation; as large as he will ſtand to the ſame, without alteration or amendment afterwards, in any matter of ſubſtance; And hath or ſhall find pledges to proſecute the ſame, the one ſo to be found, to be of the value in eſtate of the Debt or Demand in ſuch bill or plaint, or of ſome other value to be thought convenient in that behalfe, up<g ref="char:EOLhyphen"/>on and under pain and penalty, that ſuch perſon or per<g ref="char:EOLhyphen"/>ſons, ſo making or ſuing out, or cauſing, or willingly per<g ref="char:EOLhyphen"/>mitting or ſuffering in his name to be made or ſued out, any ſuch writ, warrant, or precept, ſhall loſe and for<g ref="char:EOLhyphen"/>feit to, and pay to the party grieved thereby, ſome cer<g ref="char:EOLhyphen"/>tain ſumme of Money, to be thought convenient in that behalfe to be recovered by action of debt, &amp;c. in which, &amp;c. And that ſuch pledges may be liable to pay ſuch coſts as ſhall be given againſt ſuch Plaintiffe, in ſuch action, bill, plaint, or information, And that ſuch Defendant may have execution for the ſame againſt ſuch Pledges.</p>
+               <div type="section">
+                  <head>Propoſall for Proviſoes to be in ſuch Act.</head>
+                  <p>
+                     <hi>Provided,</hi> That if any ſuch Plaintiffe hath, or ſhall have, any debt owing to him by any, who goeth about or
+<pb n="4" facs="tcp:117325:3"/>intendeth to depart this Nation, or abſent or hide him<g ref="char:EOLhyphen"/>ſelfe, or uſually abide in places privileged, or ſo called, or ſecretly to hide or convey away his Eſtate Goods or Chattals.</p>
+                  <p>And that ſuch Plaintiffe or ſome credible perſon or perſons for him, ſhall make oath in writing, before any Juſtice of the peace, or &amp;c. and they be impowred and compelled to take the ſame; that ſuch perſon oweth to ſuch Plaintiffe ſome certaine debt duty or demand, or that he was dampnified by ſuch perſon to ſome certaine value or ſumme of money, and that ſuch perſon had gi<g ref="char:EOLhyphen"/>ven out in ſpeeches, that he or &amp;c. would or intended, &amp; did goe about to depart this Nation, or abſent or hide himſelfe, or &amp;c. or that he, or &amp;c. did ſecretly abſent or hide him or &amp;c. ſelfe from any his, or &amp;c. Creditors or Demandants, or uſually abide in places privileged, or ſo called, or convey away his, or &amp;c. goods, or chattals, to the intent to defraud any.</p>
+                  <p>That then proceſſe may be made out by any Officer (having ſuch Affidavit delivered him to keep) to arreſt or attach the perſon, againſt or concerning whom ſuch oath is or ſhall be made, for ſuch demand only as is or ſhall be mentioned in ſuch Affidavit.</p>
+                  <p>Or that ſuch Plaintiffe may proceed, according as hath been uſed by forreyn attachment in <hi>London</hi> (being a beneficiall cuſtome approved of for many years, and no inconveniency found thereby) and that every Judge, Ju<g ref="char:EOLhyphen"/>ſtice, &amp;c. Sheriffe or Steward, ſo may proceed as in ſuch attachment againſt the goods and Chattals of, and Debts owing to, ſuch Defendant.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:117325:4"/>
+               <head>Propoſalls to take away the great trouble and charge, which the people of this Nation have been put to; to procure Arreſts and Appearances, &amp;c.</head>
+               <p>
+                  <hi>WHereas Creditors of late years have been at more trouble and charges then formerly, to the value of all or a great part of many debts and demands &amp;c. to cauſe their Debtors to appear, or to have them arreſted, by reaſon of their removing ſecretly of their goods from one County to another, or from one Town to another, and abſenting themſelves to, and hiding them<g ref="char:EOLhyphen"/>ſelves in, at ſeverall times, ſometimes in one County or Town, and at other times in an other, whereby their Cre<g ref="char:EOLhyphen"/>ditors could not, nor have been at any time, at any certain<g ref="char:EOLhyphen"/>ty where to find them, nor procure any the publique Offi<g ref="char:EOLhyphen"/>cers for ſuch affaires to come to the view or knowledge of ſuch Debtors, without continuall waiting and attending on ſuch Officers by themſelves, to their great trouble, charge; and hinderance in their callings, or by their ſervants or a<g ref="char:EOLhyphen"/>gents, to their great trouble &amp; charge and long attendance, and ſometimes ſuch Debtors have continued in one privile<g ref="char:EOLhyphen"/>ged
+<pb n="7" facs="tcp:117325:4"/>place as they have claymed it, and at another time in an other, in a very chargeable manner, and there waſted and conſumed their means by divers leud and wicked cour<g ref="char:EOLhyphen"/>ſes untill many of ſuch Debtors by ſo hiding themſelves and abiding, and living in exceſſe and riot; have undone themſelves, their wives, and children, and diſabled them<g ref="char:EOLhyphen"/>ſelves to ſatisfie their Creditors their juſt debts and de<g ref="char:EOLhyphen"/>mands, which otherwiſe they might in ſome meaſure have contented, or compounded with, to their liking.</hi>
+               </p>
+               <p>
+                  <hi>And whereas divers Sheriffs, when they have had pro<g ref="char:EOLhyphen"/>ceſs brought them againſt ſuch parties ſo hiding themſelvs, &amp;c. and Warrants required to ſpeciall Bayliffes to arrest them, when upon former Writs ſuch Sheriffs have retur<g ref="char:EOLhyphen"/>ned that they were not to be found, ſuch Sheriffs have beene ſo prevailed with by rewards and otherwiſe, by ſuch fugitive perſons, that ſuch Sheriffes have denyed to make Warrants againſt ſuch perſons, (ſometime pretending that they have had executions againſt them, when they have had none) and ſometime pretending one dilatory excuſe, and ſome<g ref="char:EOLhyphen"/>times another (though ſuch Sheriffs uſually grant and make Warrants againſt divers honeſt and ſufficient men, for ſmall and triviall occaſions.)</hi>
+               </p>
+               <p>
+                  <hi>And many times when Warrants have been granted out, againſt ſuch fugitive perſons, to Bayliffs, Serjeants, &amp;c. they would not arreſt them without ſums of money gi<g ref="char:EOLhyphen"/>ven
+<pb n="8" facs="tcp:117325:5"/>them by the Plaintiffs, and the Plaintiffs or ſome for them attend upon ſuch Bayliffe, &amp;c. to ſee arreſts done; otherwiſe divers of them have taken rewards of ſuch fugi<g ref="char:EOLhyphen"/>tive Defendants to ſpare ſuch arreſts.</hi>
+               </p>
+               <p>
+                  <hi>For prevention whereof, and for the more speedy ſatisfaction of Creditors, &amp;c. deſire that it may<lb/>
+                     <hi>Be Enacted,</hi>
+                  </hi> That proceſſe of Summons or Attach<g ref="char:EOLhyphen"/>ment by goods or chattals, or <hi>ſcir. fac.</hi> to ſummon, &amp;c. the perſon, may be awarded and made out of any the foure ſuperiour Courts at <hi>Weſtminſter,</hi> and at as eaſie a rate in the one as in the other of them; and no more taken for any ſuch proceſſe than hath been or ſhall be due, to ſummon, attach, or warne any Defendant to appear to a<g ref="char:EOLhyphen"/>ny action or actions, which within theſe 30. yeares laſt paſt, have or hath been uſually brought or proſecu ed in any ſuch Court to ſummon or warne any Defen<g ref="char:EOLhyphen"/>dant in ſuch proceſſe to appeare in any ſuch Court: And that upon every perſonall ſummons or war<g ref="char:EOLhyphen"/>ning returned by any ſuch Sheriffe into any ſuch Court, the ſame may ſtand and bee in the nature of an appearance in Law, for ſuch Defendant, and that the Plaintiff in ſuch action may proceed to judgment, againſt ſuch Defendant thereupon if ſuch Defendant doth not, nor ſhal plead to ſuch action within — days next after ſuch perſonall ſummons. And that in every ſuch writ of ſummons there may be a precept, to ſuch Sheriffe, that if he cannot find goods or chattals, or the perſon of ſuch Defendant, whereby to ſummon or at<g ref="char:EOLhyphen"/>tach him by his goods or chattals, or warne him per<g ref="char:EOLhyphen"/>ſonally within 15. day<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, or ſome other time to be thought convenient in that behalfe, next after ſuch proceſſe deli<g ref="char:EOLhyphen"/>vered
+<pb n="9" facs="tcp:117325:5"/>to ſuch Sheriffe or his Deputy or Deputies; (and he or they to whom the ſame ſhall be ſo delivered be in the County of ſuch Sheriffe, to whom ſuch proceſſe is or ſhall be directed) that then ſuch Sheriffe or, &amp;c. ſhall arreſt, or cauſe to be arreſted, the body of ſuch De<g ref="char:EOLhyphen"/>fendant, if he ſhall be found in &amp;c. within 15. dayes, or ſome other time to be thought convenient in that behalf, next after ſuch firſt 15. dayes expired, and ſhall make an entry upon ſuch proceſſe, or in ſome booke publique to be ſeen, at the next County Court of ſuch Sheriffe for ſuch his County, and by the ſpace of 3. or 4. County Court dayes of the ſame County next after, for every Plaintiffe, or any for him, or, &amp;c. to view and ſee, whe<g ref="char:EOLhyphen"/>ther or not ſuch Sheriffe had arreſted, or cauſed to be ar<g ref="char:EOLhyphen"/>reſted, or ſummoned or warned ſuch Defendant, or that he was not to be found in, &amp;c.</p>
+               <p>And that (if ſuch Sheriffe, or, &amp;c. had arreſted or ſhall arreſt ſuch Defendant) ſuch Sheriffe ſhall return a <hi>cep. corpus,</hi> at the return of ſuch proceſſe, into the Court from whence ſuch proceſſe iſſued, or elſe be ſub<g ref="char:EOLhyphen"/>ject to ſuch Plaintiffe, to an action of debt, for the debt or demand in the ſaid proceſſe.</p>
+               <p>And that ſuch return ſhall ſtand and be in the nature of an appearance in Law, and in ſuch manner, as is be<g ref="char:EOLhyphen"/>fore mentioned of the return of a perſonall ſummons or warning.</p>
+               <p>And that if any (after Judgment had or obteyned a<g ref="char:EOLhyphen"/>gainſt him, and ſtand in force, without writ of error, at<g ref="char:EOLhyphen"/>taint, or &amp;c. brought to reverſe the ſame) ſhall abſent or hide himſelfe, or, &amp;c. by the ſpace of — that then he may be proceeded againſt, as if he were pri<g ref="char:EOLhyphen"/>ſoner &amp;c. (ſummons being given to; or left for him, ac<g ref="char:EOLhyphen"/>cording
+<pb n="10" facs="tcp:117325:6"/>as is mentioned in the Propoſalls for Priſoners and Creditors, at his houſe, or, &amp;c. to joyn in Commiſſion and elect Commiſſioners, &amp;c.) againſt his; or, &amp;c. per<g ref="char:EOLhyphen"/>ſon, and all his, or, &amp;c. lands, tenements, goods, and Chattals.</p>
+               <p>And that if ſuch Sheriffe ſhall nor make it appear, as is before mentioned, t at he had taken the body of ſuch Defendant by the r me before mentioned, to be entred up<g ref="char:EOLhyphen"/>on ſuch proceſſe, or in ſuch book, as before is mentioned or otherwiſe; That then at the requeſt of the Plaintiffe or his Attorney, a Writ ſhall or may be granted or made out of any ſuch Court, from whence ſuch proceſſe iſſu<g ref="char:EOLhyphen"/>ed, to any perſon or perſons eſpecially by ſuch Plaintiffe or his Attorney to be elected, whereof one of ſuch par<g ref="char:EOLhyphen"/>ties ſo to be elected, to be preſent at ſuch arreſt, to have, in lands or tenements, goods or chattalls, to the value of the Debt or Demand in ſuch proceſſe, or of ſome other ſumme to be thought convenient in that behalfe; or to be Coroner or Conſtable of, &amp;c.</p>
+               <p>And that after ſuch arreſt, ſuch perſon or perſons ſo elected, may have ſuch party arreſted to the Sheriffe of the County, where ſuch perſon ſhall be ſo arreſted, his or their Deputy or Deputies, or Gaoler, and that ſuch Sheriffe, or, &amp;c. ſhall be enabled and compelled (upon paine of an action of Debt, againſt ſuch She<g ref="char:EOLhyphen"/>riffe for recovery of &amp;c. for his &amp;c. refuſall thereof) to receive ſuch perſon arreſted, and deteyne him, or, &amp;c. in cuſtody untill he or &amp;c. ſhall finde ſuretyes for ſatisfying, what debt or damages ſhall be recovered a<g ref="char:EOLhyphen"/>gainſt ſuch perſon arreſted, and to be enabled and com<g ref="char:EOLhyphen"/>pelled to take ſuch ſecurity by way of recogni<g ref="char:EOLhyphen"/>zance in the name of the Party Plaintiffe or Proſecutor,
+<pb n="11" facs="tcp:117325:6"/>and to his uſe, and that ſuch recognizance may have the full force of a Statute Merchant or of the Staple, and that the ſame may be returned with ſuch proceſſe by ſuch Sheriffe, into the Court from whence ſuch proceſſe iſſu<g ref="char:EOLhyphen"/>ed, by which ſuch arreſt ſhall be made, at the day of the returne of ſuch proceſſe, upon paine that ſuch Sheriffe, taking ſuch recognizance, ſhall be lyable to ſuch action of Debt, to ſuch Plaintiffe as before is mentioned; and that the next Juſtice of the Peace to the place where ſuch arreſt ſhall be, ſhall have power, and be compelled, to take and return ſuch recognizance with ſuch proceſſe (if ſuch perſon arreſted doe or ſhall finde and provide ſuch ſuretyes as ſuch party Proſecutor ſhall like of) and that all bonds taken, by ſuch Sheriffs, Juſtices &amp;c. at any time upon any arreſt or otherwiſe of any Defendants or his Suretyes ſhall be taken in the ſame names, and in the ſame nature, and to the ſame intents before mentioned, and returned as before, upon and under the ſame penalty or paine.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:117325:7"/>
+               <p>
+                  <table>
+                     <head>A ſhort view of the particulars to be ſaved, for the benefit of the Common-wealth, by the Propoſals formerly publiſhed for Priſoners and Creditors, &amp;c.</head>
+                     <row>
+                        <cell>The number of priſoners yearly in <hi>England</hi> and <hi>Wales,</hi> and as have been in <hi>Ireland,</hi> as divers conceive above 20000.</cell>
+                        <cell>The num<g ref="char:EOLhyphen"/>ber of Pri<g ref="char:EOLhyphen"/>ſoners early. 12000.</cell>
+                        <cell>Waſter &amp; conſumed by them yearly.</cell>
+                        <cell>Propoſed to be ſaved to the Common-wealth. yearly.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>And as all, or moſt who have taken obſervation of ſuch things, do eſteem there be above 12000.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>Eſtimated as is eſti<g ref="char:EOLhyphen"/>mated.</cell>
+                        <cell>By ſome to ſo much more, And by Others double ſo much.</cell>
+                     </row>
+                     <row>
+                        <cell>Every of which Priſoners one with anothher, wa<g ref="char:EOLhyphen"/>ſteth and ſpendeth year<g ref="char:EOLhyphen"/>ly, above 30 li. which a<g ref="char:EOLhyphen"/>mounteth to 360000 li.</cell>
+                        <cell> </cell>
+                        <cell>360000 li.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Of which is propoſed to be yearly ſaved, for the benefit of the Common-Wealth above 300000 l.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>300000 li.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Beſides for the preventi<g ref="char:EOLhyphen"/>on of frauds, which have been uſually hatched in priſons, by long lyers there, whereby divers have been totally de<g ref="char:EOLhyphen"/>frauded of their juſt Debts and dammages, amounting as is eſtima<g ref="char:EOLhyphen"/>ted by ſome to ſo much and by others double ſo much.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>600000 li.</cell>
+                        <cell>900000 li.</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="13" facs="tcp:117325:7"/>
+               <p>The particulars by theſe propoſals, For prevention of wrongfull Arreſts, and impriſonments, &amp;c. and for ſaving the exceſſive charges of Arreſts for juſt debts, now newly publiſhed, to be ſaved to the honeſt peo<g ref="char:EOLhyphen"/>ple of this Nation, are drawn ready to be publiſhed in convenient time;</p>
+               <p>
+                  <hi>And that for the Propoſalls formerly publiſhed for Credi<g ref="char:EOLhyphen"/>tors, &amp;c. be large, and are ſo drawn for the preven<g ref="char:EOLhyphen"/>tion of fraud in danger to happen, and for the perfect underſtanding of all the common people, how they have been wronged by permiſſion of things to be acted, therby propoſed to be remedied, and for their certain underſtanding, how they may ſpeedily, and at ſmall charge he remedied, here followeth an abſtract of the benefit for he Common-wealth Propoſed by the Propo<g ref="char:EOLhyphen"/>ſals before mentioned for Creditors &amp;c.</hi>
+               </p>
+               <p>
+                  <list>
+                     <item>1. That all Creditors may have their due of and a<g ref="char:EOLhyphen"/>gainſt al their Debtors and Priſoners out of all their E<g ref="char:EOLhyphen"/>ſtates both reall and perſonall of what Nature ſoever; &amp;c that all Priſoners whatſoever (ſatisfying their Credi<g ref="char:EOLhyphen"/>tors rateably according to their abilities) may ſpeedi<g ref="char:EOLhyphen"/>ly be delivered out of priſon, and not lie lingering there in miſery and extremity.</item>
+                     <item>2. That all Priſoners of ability may be compelled to diſcover the truth of their Eſtates to their Creditors, and out of the ſame to ſatisfy their Creditors, and not lie in priſon waſting and ſpending in a riotous way among their keepers, and their agents, as much as would ſatis<g ref="char:EOLhyphen"/>fie their Creditors.</item>
+                     <item>3. And that ſuch as ſhall be found faulty in concea<g ref="char:EOLhyphen"/>ling or ſo waſting their Eſtates, ſhould be taken from the priſon where they ſo he rioting, and be put to ſome
+<pb n="14" facs="tcp:117325:8"/>place ſtraitly to be held to worke for the benefit of their Creditors; which courſe will cauſe thoſe who uſually contribute for ſuch their Liberty and riotous and delici<g ref="char:EOLhyphen"/>ous maintenance and living, contribute more large to their Creditors to gaine their favour for the liberty of ſuch Priſoner.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>And becauſe ſome deſtructive Propoſalls or Petitions have inconſiderately been often divulged and ſcattered abroad by ſome, this following Proviſo to thoſe former Propoſalls not perfectly expreſſed in the ſame, in regard three ſheets of more ma eriall things were filled, and no space left to expreſſe at large proviſions againſt ſuch like inconſiderate Propoſalls thereof, this next following Proviſo is now expreſſed more at large, for the more perfect underſtanding of the inconveniences which in<g ref="char:EOLhyphen"/>evitably would happen, if ſuch inconſiderate Petitions ſhould be granted; which following Proviſo is a full anſwer to, and diſcovery of, the miſchiefs and inconve<g ref="char:EOLhyphen"/>niences which would enſue upon thoſe Petitions, with an Errata in ſome of the first former Propoſalls for Creditors, &amp;c. to the intent that thoſe who have any of them may amend the ſame for their perfect under stan<g ref="char:EOLhyphen"/>ding thereof. Page</hi> 5. <hi>line</hi> 8. inter <hi>&amp;c. and a<g ref="char:EOLhyphen"/>gainſt,</hi> read <hi>there to except,</hi> p. 8. l. 13. inter <hi>Credi<g ref="char:EOLhyphen"/>tors and upon,</hi> read <hi>to an action of ejectment, and con<g ref="char:EOLhyphen"/>feſſe the ejectment and the outer,</hi> p. 21. l. 23. ſtrike out <hi>priſon,</hi> and read <hi>perſon,</hi> p. 28. l. 8. put our <hi>di<g ref="char:EOLhyphen"/>rection,</hi> and read <hi>diſcretion.</hi>
+               </p>
+               <p n="4">4. And that ſuch perſons ſhall be ſo dealt with, as thoſe ſo concealing or waſting their eſtates, which ſhall be found guilty of outrages, as may hemes, batteries, and other treſpaſſes, conſpiracies, ſcandalls, &amp;c. and ſuch like;
+<pb n="15" facs="tcp:117325:8"/>for if ſuch outragious perſons ſhould go free and be ſet at liberty out of priſon, in regard of their po<g ref="char:EOLhyphen"/>verty, by vertue of any new act of grace (as ſome incon<g ref="char:EOLhyphen"/>ſiderately have propounded and deſired) then its feared, that there will be no quiet in the nation, being divers out<g ref="char:EOLhyphen"/>ragious perſons of meane eſtate will then be apt and rea<g ref="char:EOLhyphen"/>dy of their owne miſchievous and wicked intents, or by rewards or promiſes of reward, ſecretly given by ſome others, work and act ſuch miſchief for a very ſmall reward or promiſe, ſo that by the permiſsion thereof, out<g ref="char:EOLhyphen"/>ragious perſons ſo eaſily to be diſcharged out of Priſon, honeſt men living by their handicraft art, or labour, by mayhemes, wounds, and ſuch like, may be deprived of their livelihood, and diverſe men living by their credit by outragious conſpiracies and ſcandalls may be deprived of their credits, and thereby utterly undone, and many other men beſides may by ſuch permiſsion be put to ex<g ref="char:EOLhyphen"/>ceſsive charge, and have their lives and eſtates brought into danger of loſing, by miſchievous actions of ſuch outragious and ſcandalous perſons.</p>
+            </div>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
